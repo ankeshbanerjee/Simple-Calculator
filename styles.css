@@ -1,0 +1,52 @@
+body{
+    background: #069A8E;
+}
+
+.text-center{
+    text-align: center;
+    margin: 40px 0;
+}
+
+.external-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 290px;
+    background: #1A3C40;
+    /* border: 2px solid black; */
+    border-radius: 9%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    box-shadow: 0 3px 21px 0 #DBEDF3;
+}
+
+.c-btn{
+    width: 173px;
+}
+
+.btn{
+    padding: 20px;
+    margin: 5px 4px;
+    /* border: 2px solid black; */
+    border-radius: 9%;
+    cursor: pointer;
+    font-family: 'IBM Plex Sans', sans-serif;
+    box-shadow: 0 3px 4px 0 black;
+}
+
+.input{
+    border-radius: 9px;
+    border: 2px solid black;
+    width: 232px;
+    margin: 21px 0;
+    padding: 6px;
+    box-shadow: 0 3px 4px 0 black;
+}
+
