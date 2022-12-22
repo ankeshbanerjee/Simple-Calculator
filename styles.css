@@ -32,21 +32,26 @@ body{
 }
 
 .btn{
-    padding: 20px;
+    padding: 18px;
     margin: 5px 4px;
     /* border: 2px solid black; */
     border-radius: 9%;
     cursor: pointer;
     font-family: 'IBM Plex Sans', sans-serif;
     box-shadow: 0 3px 4px 0 black;
+    font-size: 1.5rem;
 }
 
 .input{
     border-radius: 9px;
     border: 2px solid black;
-    width: 232px;
-    margin: 21px 0;
-    padding: 6px;
+    width: 246px;
+    margin: 17px 0;
+    padding: 6px 10px;
     box-shadow: 0 3px 4px 0 black;
+    height: 61px;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+    font-weight: bold;
 }
 
